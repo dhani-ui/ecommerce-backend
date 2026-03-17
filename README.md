@@ -15,3 +15,5 @@ CREATE TABLE barang (
 -- Masukkan data dummy untuk testing
 INSERT INTO barang (nama_barang, kuantiti, tanggal_masuk, gambar_barang) 
 VALUES ('Laptop Gaming', 10, '2026-03-16', 'https://via.placeholder.com/150');
+
+type go main.go to run
