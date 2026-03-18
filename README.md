@@ -2,17 +2,25 @@ created using go languange
 
 type go main.go to run
 
-fitur :
+fitur fitur :
 
-login jwt
+guest :
 
-add item
-
-edit item
-
-add to chart / keranjang
+add item to chart
 
 checkout
 
+form checkout
 
-dhani-ui
+
+user / admin :
+
+login jwt
+
+add item add pic
+
+edit item yang ada
+
+add to chart / keranjang
+
+form checkout
